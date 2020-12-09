@@ -1,2 +1,3 @@
 # imgshare
 imgshare
+add slave
